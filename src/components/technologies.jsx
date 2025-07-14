@@ -42,7 +42,7 @@ const Technologies = () => {
       </motion.h1>
       <div className="flex flex-wrap items-center justify-center gap-4">
                 <motion.div
-          variants={iconVariants(3)}
+          variants={iconVariants(4)}
           initial="initial"
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
