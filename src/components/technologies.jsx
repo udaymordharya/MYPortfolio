@@ -12,6 +12,8 @@ import {
   SiPython,
 } from "react-icons/si";
 import { DiJava } from "react-icons/di";
+import { BiLogoFigma } from "react-icons/bi";
+
 import { motion } from "framer-motion";
 
 // Floating animation for icons
@@ -39,6 +41,14 @@ const Technologies = () => {
         Technologies
       </motion.h1>
       <div className="flex flex-wrap items-center justify-center gap-4">
+                <motion.div
+          variants={iconVariants(2.5)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <BiLogoFigma className="text-7xl text-red-400" aria-label="React" />
+        </motion.div>
         <motion.div
           variants={iconVariants(2.5)}
           initial="initial"
@@ -103,7 +113,7 @@ const Technologies = () => {
         </motion.div>
 
         <motion.div
-          variants={iconVariants(3)}
+          variants={iconVariants(2.5)}
           initial="initial"
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
@@ -112,7 +122,7 @@ const Technologies = () => {
         </motion.div>
 
         <motion.div
-          variants={iconVariants(3)}
+          variants={iconVariants(2.5)}
           initial="initial"
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
