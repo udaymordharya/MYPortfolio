@@ -21,12 +21,12 @@ export const EXPERIENCES = [
     technologies: ["Sockit.io", "Reduxjs", "REST API", "React", "TailwindCSS", "TypeScript"],
   },
   {
-    year: "2023",
+    year: "2024",
     role: "Web Developer Intern",
     company: "RV Tech Learn",
     description:
       "Intern at RV Tech Learn Tech Stack: React.js, TypeScript, Tailwind CSS. Designed and developed key pages for the company’s official website using React and Tailwind CSS, ensuring responsive design and clean UI/UX. Built core modules of a Learning Management System (LMS) such as student dashboards and course listings using React, TypeScript, and Redux Toolkit. Integrated REST APIs via Axios for dynamic data handling and improved frontend-backend communication. Collaborated with the team using Git and GitHub for version control, feature branching, and seamless code sharing and reviews.",
-    technologies: ["React", "Typscript", "TailwindCSS", "", "Figma"],
+    technologies: ["React", "Typscript", "TailwindCSS", "Nextjs", "Figma"],
   },
 ];
 
