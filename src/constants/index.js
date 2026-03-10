@@ -17,8 +17,8 @@ export const ABOUT_TEXT = "I’m Uday Mordharya, a final-year Information Techno
 // Experience Section
 export const EXPERIENCES = [
   {
-    year: "June - August 2025",
-    role: "Frontend Intern",
+    year: "June 2025 - Feb 2026",
+    role: "FullStack Intern",
     company: "Getfly Technologies",
     description: "Frontend Development with Redux, ShadCN UI, and Socket.IO Tech Stack: React.js, TypeScript, Redux Toolkit, ShadCN UI, Axios, Socket.IO, REST APIs Developed responsive and modular frontend components using React and TypeScript, ensuring cross-device compatibility and clean UI structure. Built dynamic, accessible UI elements using ShadCN UI with Tailwind CSS, following design system principles. Integrated Redux Toolkit for scalable and efficient global state management, replacing local component states where applicable. Implemented real-time features like chat messaging, user presence, and notifications using Socket.IO, enhancing interactivity and user experience. Connected frontend to backend using Axios for RESTful API calls, managing CRUD operations with robust error handling and loading states. Refactored legacy components and reorganized codebase to follow modern best practices—modular folder structure, reusable hooks, and clean component design.",
     technologies: ["Sockit.io", "Reduxjs", "REST API", "React", "TailwindCSS", "TypeScript"],
