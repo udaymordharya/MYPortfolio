@@ -36,7 +36,7 @@ const Navbar =() => {
         <FaInstagram/>
         </a>
         <a
-            href="./resume 1 (1).pdf"
+            href="./udayresume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-indigo-400 transition"
